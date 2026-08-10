@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Test",
+    "description": "",
+    "home_page_url": "https://bad-boy-themost.github.io/test",
+    "feed_url": "https://bad-boy-themost.github.io/test/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Mark"
+    },
+    "items": [
+        {
+            "id": "https://bad-boy-themost.github.io/test/my-post.html",
+            "url": "https://bad-boy-themost.github.io/test/my-post.html",
+            "title": "My post",
+            "summary": "It's the beginning of a new day!",
+            "content_html": "<p>It's the beginning of a new day!</p>",
+            "author": {
+                "name": "Mark"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-10T18:56:19-04:00",
+            "date_modified": "2026-08-10T18:56:19-04:00"
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bad-boy-themost.github.io/test/sitemap.xml
