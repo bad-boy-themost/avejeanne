@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://bad-boy-themost.github.io/test/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://bad-boy-themost.github.io/avejeanne/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://bad-boy-themost.github.io/test/</loc>
+<loc>https://bad-boy-themost.github.io/avejeanne/</loc>
 </url>
 <url>
-<loc>https://bad-boy-themost.github.io/test/my-post.html</loc>
-<lastmod>2026-08-10T18:56:19-04:00</lastmod>
+<loc>https://bad-boy-themost.github.io/avejeanne/contact.html</loc>
+<lastmod>2026-08-13T18:10:28-04:00</lastmod>
+</url>
+<url>
+<loc>https://bad-boy-themost.github.io/avejeanne/guest-book.html</loc>
+<lastmod>2026-08-13T18:10:26-04:00</lastmod>
+</url>
+<url>
+<loc>https://bad-boy-themost.github.io/avejeanne/im-nobody-who-are-you.html</loc>
+<lastmod>2026-08-13T18:30:01-04:00</lastmod>
+<image:image>
+<image:loc>https://bad-boy-themost.github.io/avejeanne/media/posts/2/pskdosk.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://bad-boy-themost.github.io/avejeanne/in-print.html</loc>
+<lastmod>2026-08-13T18:10:17-04:00</lastmod>
+</url>
+<url>
+<loc>https://bad-boy-themost.github.io/avejeanne/online.html</loc>
+<lastmod>2026-08-13T18:10:22-04:00</lastmod>
+</url>
+<url>
+<loc>https://bad-boy-themost.github.io/avejeanne/we-talked-as-girls-do.html</loc>
+<lastmod>2026-08-13T18:27:26-04:00</lastmod>
+<image:image>
+<image:loc>https://bad-boy-themost.github.io/avejeanne/media/posts/1/images.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 </urlset>

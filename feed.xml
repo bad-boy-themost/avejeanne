@@ -1,31 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Test</title>
-    <link href="https://bad-boy-themost.github.io/test/feed.xml" rel="self" />
-    <link href="https://bad-boy-themost.github.io/test" />
-    <updated>2026-08-10T18:56:19-04:00</updated>
+    <title>avejeanne.com</title>
+    <link href="https://bad-boy-themost.github.io/avejeanne/feed.xml" rel="self" />
+    <link href="https://bad-boy-themost.github.io/avejeanne" />
+    <updated>2026-08-13T18:30:01-04:00</updated>
     <author>
-        <name>Mark</name>
+        <name>Ave Jeanne Ventresca</name>
     </author>
-    <id>https://bad-boy-themost.github.io/test</id>
+    <id>https://bad-boy-themost.github.io/avejeanne</id>
 
     <entry>
-        <title>My post</title>
+        <title>I’m Nobody! Who are you?</title>
         <author>
-            <name>Mark</name>
+            <name>Ave Jeanne Ventresca</name>
         </author>
-        <link href="https://bad-boy-themost.github.io/test/my-post.html"/>
-        <id>https://bad-boy-themost.github.io/test/my-post.html</id>
+        <link href="https://bad-boy-themost.github.io/avejeanne/im-nobody-who-are-you.html"/>
+        <id>https://bad-boy-themost.github.io/avejeanne/im-nobody-who-are-you.html</id>
+        <media:content url="https://bad-boy-themost.github.io/avejeanne/media/posts/2/pskdosk.png" medium="image" />
 
-        <updated>2026-08-10T18:56:19-04:00</updated>
+        <updated>2026-08-13T17:57:12-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                    It's the beginning of a new day!
+                        <img src="https://bad-boy-themost.github.io/avejeanne/media/posts/2/pskdosk.png" alt="" />
+                    I’m Nobody! Who are you? Are you – Nobody – too? Then there’s a pair of us! Don’t tell! they’d&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>It's the beginning of a new day!</p>
+                    <p><img src="https://bad-boy-themost.github.io/avejeanne/media/posts/2/pskdosk.png" class="type:primaryImage" alt="" /></p>
+                <p class="wp-block-paragraph">I’m Nobody! Who are you?<br>Are you – Nobody – too?<br>Then there’s a pair of us!<br>Don’t tell! they’d advertise* – you know!</p>
+<p class="wp-block-paragraph">How dreary – to be – Somebody!<br>How public – like a Frog –<br>To tell your name – the livelong June –<br>To an admiring Bog!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>We talked as Girls do –</title>
+        <author>
+            <name>Ave Jeanne Ventresca</name>
+        </author>
+        <link href="https://bad-boy-themost.github.io/avejeanne/we-talked-as-girls-do.html"/>
+        <id>https://bad-boy-themost.github.io/avejeanne/we-talked-as-girls-do.html</id>
+        <media:content url="https://bad-boy-themost.github.io/avejeanne/media/posts/1/images.jpeg" medium="image" />
+
+        <updated>2026-08-10T18:56:19-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://bad-boy-themost.github.io/avejeanne/media/posts/1/images.jpeg" alt="" />
+                    We talked as Girls do – Fond, and late – We speculated fair, on every subject, but the Grave –&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://bad-boy-themost.github.io/avejeanne/media/posts/1/images.jpeg" class="type:primaryImage" alt="" /></p>
+                <p>We talked as Girls do –<br>Fond, and late –<br>We speculated fair, on every subject, but the Grave –<br>Of our’s, none affair –</p>
+<p>We handled Destinies, as cool –<br>As we – Disposers – be –<br>And God, a Quiet Party<br>to our authority –</p>
+<p>But fondest, dwelt opon Ourself<br>As we eventual – be –<br>When Girls, to Women, softly raised<br>We – occupy – Degree –</p>
+<p>We parted with a contract<br>To cherish, and to write<br>But Heaven made both, impossible<br>Before another night.</p>
             ]]>
         </content>
     </entry>
